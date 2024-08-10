@@ -13,7 +13,7 @@ public class DB {
 	private String user = "root";
 	private String password = "123456";
 	private String className = "com.mysql.jdbc.Driver";
-	private String url = "jdbc:mysql://localhost:3306/graduation_db_jiudian?useUnicode=true&amp;amp;amp;amp;amp;amp;characterEncoding=utf-8";
+	private String url = "jdbc:mysql://localhost:3306/graduation_58_db_jiudian?useUnicode=true&amp;amp;amp;amp;amp;amp;characterEncoding=utf-8";
 
 	public DB() {
 		try {
